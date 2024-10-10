@@ -40,7 +40,7 @@ GitHub username and email address
 Step 3: After completing the prompts, a README.md file will be generated in the current directory with the details you provided.
 
 ## Walkthrough
-Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: <iframe src="https://drive.google.com/file/d/10fiTdnmlzo24HvVxWc2lfQ9ynjfL9OcK/preview" width="640" height="480"></iframe>
+Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: "https://drive.google.com/file/d/10fiTdnmlzo24HvVxWc2lfQ9ynjfL9OcK/preview"
 
 ## Dependencies
 This project depends on the following packages:
