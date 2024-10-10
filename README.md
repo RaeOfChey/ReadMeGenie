@@ -19,6 +19,8 @@ ReadMeGenie is a command-line application that dynamically creates a professiona
 - Navigate to the project directory: cd readme-generator-ReadMeGenie
 - Install the necessary dependencies: npm install
 
+This project uses the inquirer package to facilitate interactive command-line user prompts.
+
 ## Usage
 Follow the steps below to use ReadMeGenie.
 
@@ -36,6 +38,14 @@ Testing instructions
 GitHub username and email address
 
 Step 3: After completing the prompts, a README.md file will be generated in the current directory with the details you provided.
+
+## Walkthrough
+Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: <iframe src="https://drive.google.com/file/d/10fiTdnmlzo24HvVxWc2lfQ9ynjfL9OcK/preview" width="640" height="480"></iframe>
+
+## Dependencies
+This project depends on the following packages:
+
+inquirer: Used for prompting user input in the command line.
 
 ## License
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute this software, provided proper attribution is given.
@@ -59,5 +69,4 @@ Currently, this project does not have any automated tests. However, if you'd lik
 To run any test files in the future, use: npm test
 
 ## Questions
-If you have any questions about the repository, feel free to reach out by opening an issue or contacting me directly at cheyennaraelynn@gmail. You can also find more of my work on GitHu at https://github.com/RaeOfChey.
-    
+If you have any questions about the repository, feel free to reach out by opening an issue or contacting me directly at cheyennaraelynn@gmail.com You can also find more of my work on GitHu at https://github.com/RaeOfChey.
