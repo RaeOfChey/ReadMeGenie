@@ -20,7 +20,8 @@ ReadMeGenie is a command-line application that dynamically creates a professiona
 - Navigate to the project directory: cd readme-generator-ReadMeGenie
 - Install the necessary dependencies: npm install
 
-This project uses the inquirer package to facilitate interactive command-line user prompts.
+This project uses the inquirer package to facilitate interactive command-line user prompts
+
 <img width="171" alt="Contents" src="https://github.com/user-attachments/assets/fb1ca598-dd3b-48aa-abac-f86e10f2740e">
 
 ## Usage
