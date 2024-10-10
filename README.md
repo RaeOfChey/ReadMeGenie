@@ -13,6 +13,7 @@
 
 ## Description
 ReadMeGenie is a command-line application that dynamically creates a professional README.md file based on user input. The application prompts the user with a series of questions about their project and generates a well-structured README.md file. This tool simplifies the process of writing documentation by creating a customizable template that fits standard best practices.
+<img width="953" alt="README Preview" src="https://github.com/user-attachments/assets/63a5503a-8029-4d6d-9e02-0a79c228c8a3">
 
 ## Installation
 - Clone the repository: git clonehttps://github.com/RaeOfChey/readme-generator-ReadMeGenie.git
@@ -20,6 +21,7 @@ ReadMeGenie is a command-line application that dynamically creates a professiona
 - Install the necessary dependencies: npm install
 
 This project uses the inquirer package to facilitate interactive command-line user prompts.
+<img width="171" alt="Contents" src="https://github.com/user-attachments/assets/fb1ca598-dd3b-48aa-abac-f86e10f2740e">
 
 ## Usage
 Follow the steps below to use ReadMeGenie.
@@ -38,6 +40,7 @@ Testing instructions
 GitHub username and email address
 
 Step 3: After completing the prompts, a README.md file will be generated in the current directory with the details you provided.
+<img width="923" alt="Qs and As" src="https://github.com/user-attachments/assets/355f22f4-4478-4ee6-bb1f-b02cac210424">
 
 ## Walkthrough
 Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: "https://drive.google.com/file/d/10fiTdnmlzo24HvVxWc2lfQ9ynjfL9OcK/preview"
