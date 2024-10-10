@@ -52,7 +52,7 @@ Step 3: After completing the prompts, a README.md file will be generated in the 
 Image of example question prompts and answers.
 
 ## Walkthrough
-Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: "https://drive.google.com/file/d/10fiTdnmlzo24HvVxWc2lfQ9ynjfL9OcK/preview"
+Here’s a video walkthrough showing the functionality of the README generator, including how to invoke the application, enter responses, and view the generated README file: https://drive.google.com/file/d/1uMne2LC1YzH5Qxi-0TjdZh6Hr6NBT6GP/view?usp=sharing
 
 ## Dependencies
 This project depends on the following packages:
