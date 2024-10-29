@@ -6,10 +6,12 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Questions](#questions)
+4. [Walkthrough](#walkthrough)
+5. [Dependencies](#dependencies)
+6. [License](#license)
+7. [Contributing](#contributing)
+8. [Tests](#tests)
+9. [Questions](#questions)
 
 ## Description
 ReadMeGenie is a command-line application that dynamically creates a professional README.md file based on user input. The application prompts the user with a series of questions about their project and generates a well-structured README.md file. This tool simplifies the process of writing documentation by creating a customizable template that fits standard best practices.
